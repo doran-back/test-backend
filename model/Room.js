@@ -13,8 +13,4 @@ const roomSchema = new mongoose.Schema({
   },
 });
 
-const roomListSchema = new mongoose.Schema({
-  type: [roomSchema]
-});
-
-module.exports = mongoose.model("Room", roomListSchema);
+module.exports = mongoose.model("Room", roomSchema);
