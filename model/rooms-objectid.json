@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61f25cd43b9cc538b1c4b050"
+  },
+  "title": "김필순님의 사랑방",
+  "users": [
+    {
+      "$oid": "61f25aec3b9cc538b1c4b045"
+    },
+    {
+      "$oid": "61f25aec3b9cc538b1c4b044"
+    }
+  ],
+  "address": "송파구"
+},{
+  "_id": {
+    "$oid": "61f25cd43b9cc538b1c4b053"
+  },
+  "title": "진국님의 사랑방",
+  "users": [
+    {
+      "$oid": "61f25aec3b9cc538b1c4b049"
+    },
+    {
+      "$oid": "61f25aec3b9cc538b1c4b04a"
+    },
+    {
+      "$oid": "61f25aec3b9cc538b1c4b04b"
+    }
+  ],
+  "address": "광진구"
+},{
+  "_id": {
+    "$oid": "61f25cd43b9cc538b1c4b052"
+  },
+  "title": "이영자님의 행복방",
+  "users": [
+    {
+      "$oid": "61f25aec3b9cc538b1c4b046"
+    }
+  ],
+  "address": "송파구"
+},{
+  "_id": {
+    "$oid": "61f25cd43b9cc538b1c4b051"
+  },
+  "title": "곽필용님의 사랑방",
+  "users": [
+    {
+      "$oid": "61f25aec3b9cc538b1c4b048"
+    },
+    {
+      "$oid": "61f25aec3b9cc538b1c4b047"
+    }
+  ],
+  "address": "강남구"
+},{
+  "_id": {
+    "$oid": "61f25cd43b9cc538b1c4b054"
+  },
+  "title": "이한유님의 사랑방",
+  "users": [
+    {
+      "$oid": "61f25aec3b9cc538b1c4b04c"
+    },
+    {
+      "$oid": "61f25aec3b9cc538b1c4b04d"
+    }
+  ],
+  "address": "강남구"
+}]
